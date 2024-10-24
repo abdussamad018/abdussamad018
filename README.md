@@ -1,77 +1,81 @@
-# 👋 Hi, I'm Abdus Samad  
-**Senior Software Engineer | Full-Stack Developer | AI Enthusiast**  
+# 👋 Abdus Samad  
+**Software Engineer**  
 
-🚀 Passionate about building scalable, efficient software solutions. With **5 years of professional experience**, I specialize in developing innovative tools across **web technologies, cloud platforms, and AI systems**.  
+📅 **Date of Birth**: 01/01/1997  
+📍 **Location**: K/6, Extension Pallabi, Pallabi, Dhaka  
+📧 **Email**: [abdussamad018@gmail.com](mailto:abdussamad018@gmail.com)  
+📱 **Phone**: 01845891962  
 
 ---
 
-## 💼 Employment History  
+## 📝 About Me  
+I am a professional Software Engineer with **5 years of experience** in designing, developing, and supporting software applications. I am passionate about using my skills — software development, analytical thinking, and teamwork — to contribute to innovative projects that drive new technologies forward.  
 
-| Position                  | Company     | Duration | Responsibilities |
-|---------------------------|-------------|----------|------------------|
-| **Senior Software Engineer** | Glossy IT | Jan,2023 - Present  | - Led multi-vendor e-commerce platform development<br>- Optimized Laravel and React applications<br>- Developed SaaS products and AI-based tools |
-| **Senior Software Engineer** | Soft Creation Ltd | Jan,2020 -Dec,2022   | - Led multi-vendor e-commerce platform development<br>- Optimized Laravel and React applications<br>- Developed SaaS products and AI-based tools |
+---
+
+## 💼 Employment  
+
+| Position                 | Company               | Duration                    | Location               |
+|--------------------------|-----------------------|-----------------------------|------------------------|
+| **Sr. Software Engineer** | Glossy IT             | 01 January, 2023 - Present | Mirpur, DOHS, Dhaka-1216 |
+| **Sr. Software Engineer** | Softcreation Limited | 01 July, 2019 - 31 December, 2022 | Mirpur, DOHS, Dhaka-1216 |
 
 ---
 
 ## 🎓 Education  
 
-| Degree                                | Institution                                  | Specialization          | Relevant Coursework |
-|---------------------------------------|----------------------------------------------|-------------------------|---------------------|
-| **Bachelor's in Computer Science and Engineering (CSE)** | Bangladesh University of Business & Technology (BUBT) | AI and Software Engineering | Machine Learning, Data Structures, Cloud Computing |
+| Degree                         | Institution                                  | Graduation Year | CGPA | Duration |
+|--------------------------------|----------------------------------------------|----------------|------|----------|
+| **BSc in Computer Science & Engineering** | Bangladesh University of Business and Technology (BUBT) | 2024 | 3.56 / 4.00 | 4 Years |
+| **Diploma in Computer Science & Engineering** | AITVET | 2020 | 3.46 / 4.00 | 3 Years |
+| **HSC in Science**              | Ramgonj Model College                       | 2015 | 3.88 / 5.00 | 2 Years |
+| **SSC in Science**              | Khajuria M.L High School                    | 2013 | 4.31 / 5.00 | 2 Years |
 
 ---
 
-## 🛠️ Trainings & Certifications  
-
-| Training / Certification             | Description                                            |
-|--------------------------------------|--------------------------------------------------------|
-| **Facebook Messenger API Integration** | Webhook-based messaging apps using React.js            |
-| **Advanced Laravel & Livewire Development** | Real-time and scalable application building techniques |
-| **DevOps Fundamentals**               | Hands-on Docker and AWS CI/CD workflow training        |
+## 🛠️ Skill Highlights  
+- **Programming Languages**: PHP, Java, JavaScript  
+- **Frameworks & Libraries**: Laravel, React, Next.js  
+- **Development Tools**: REST API, Firebase  
+- **Others**: Android Development, Web Scraping  
 
 ---
 
-## 💻 Technologies & Skills  
-- **Languages**: JavaScript, PHP, Python, SQL  
-- **Frameworks & Libraries**: Laravel, Next.js, React, Livewire  
-- **Tools & Platforms**: Git, Docker, AWS, Firebase  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Other Skills**: Web Scraping, API Integration, DevOps, E-commerce Systems  
+## 📑 Trainings  
+
+| Course                                  | Institution | Year | Duration | Topics |
+|-----------------------------------------|------------|------|----------|---------------------------------------------|
+| **Android Apps Development**            | Creative IT Institute | 2020 | 6 Months | Java, XML, Firebase |
+| **Professional Web Application Development** | Islamic Development Bank Bangladesh | 2019 | 6 Months | PHP, Laravel, React, MySQL, Web Design |
 
 ---
 
-## 🌌 Current Projects  
-1. **NASA App Challenge 2024**  
-   - Building interactive data visualization tools for space exploration datasets.  
-   - Tech Stack: React.js, MUI, LineCharts  
+## 🚀 Projects  
 
-2. **Multi-Vendor E-commerce Platform**  
-   - A Laravel-based platform supporting seller custom domains and multi-currency options.  
-
-3. **HTTP Monitoring System**  
-   - Real-time monitoring solution using Next.js and serverless technologies.  
-
----
-
-## 🛠️ Notable Projects  
-- **AI-based Seismic Data Analysis Tool**  
-   - Developed a noise-reduction system using Streamlit for Mars and lunar seismic data.  
-- **Facebook Messenger Integration**  
-   - Implemented webhooks using React.js to streamline customer support operations.  
-- **Automated Google Maps Review Scraper**  
-   - Extracted reviews and images using Puppeteer for data-driven decisions.  
+| Project Name                    | Description                                               | Live Demo |
+|---------------------------------|-----------------------------------------------------------|-----------|
+| **SEO Analyzer**                | Web-based application for generating SEO reports.         | [View Project](https://live.ibusinesspromoter.com) |
+| **HRM Management System**       | Employee management, payroll, and Zkteco attendance integration. | [View Project](https://dev.easyhr.us) |
+| **College Management System**   | System for managing college activities and operations.    | [View Project](https://college.toolboxapps.com/login) |
+| **Email Marketing System**      | Web scraping, email validation, and bulk email sending.   | [View Project](https://worker.toolboxapps.com/login) |
+| **Multivendor E-commerce Platform** | E-commerce platform supporting multiple vendors.       | [View Project](https://estoreerp.glossyit.com) |
 
 ---
 
-## 📫 Let's Connect  
-- **Email**: abdussamad@gmail.com  
-- **LinkedIn**: [linkedin.com/in/abdussamad](#)  
-- **GitHub**: [github.com/abdussamad018](#)  
+## 📁 GitHub Profile  
+[GitHub - Abdus Samad](https://github.com/abdussamad018)  
+
+---
+
+## 📞 References  
+
+| Name           | Company                           | Relation  | Phone       | Email                            |
+|----------------|-----------------------------------|-----------|-------------|----------------------------------|
+| **Sakib Hasan** | TechnoNext Software Limited | Academic  | 01789955195 | [sakib.hasan@technonext.com](mailto:sakib.hasan@technonext.com) |
 
 ---
 
 ## 🎯 Fun Facts  
-- Final-year student of Computer Science Engineering with a focus on **AI research**.  
-- Always excited about space exploration and open-source contributions.  
-- Loves debugging—sometimes more than coding!  
+- I love **debugging** — sometimes even more than coding!  
+- I'm currently in my **final year of CSE** with a focus on **AI research**.  
+- I'm excited about **space exploration** and actively participate in **open-source contributions**.
