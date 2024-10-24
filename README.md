@@ -9,7 +9,8 @@
 
 | Position                  | Company     | Duration | Responsibilities |
 |---------------------------|-------------|----------|------------------|
-| **Senior Software Engineer** | Glossy IT | 5 Years  | - Led multi-vendor e-commerce platform development<br>- Optimized Laravel and React applications<br>- Developed SaaS products and AI-based tools |
+| **Senior Software Engineer** | Glossy IT | Jan,2023 - Present  | - Led multi-vendor e-commerce platform development<br>- Optimized Laravel and React applications<br>- Developed SaaS products and AI-based tools |
+| **Senior Software Engineer** | Soft Creation Ltd | Jan,2020 -Dec,2022   | - Led multi-vendor e-commerce platform development<br>- Optimized Laravel and React applications<br>- Developed SaaS products and AI-based tools |
 
 ---
 
@@ -64,9 +65,9 @@
 ---
 
 ## 📫 Let's Connect  
-- **Email**: abdussamad@example.com  
+- **Email**: abdussamad@gmail.com  
 - **LinkedIn**: [linkedin.com/in/abdussamad](#)  
-- **GitHub**: [github.com/abdussamad](#)  
+- **GitHub**: [github.com/abdussamad018](#)  
 
 ---
 
