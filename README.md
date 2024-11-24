@@ -27,7 +27,7 @@ I am a professional Software Engineer with **5 years of experience** in designin
 | Degree                         | Institution                                  | Graduation Year | CGPA | Duration |
 |--------------------------------|----------------------------------------------|----------------|------|----------|
 | **BSc in Computer Science & Engineering** | Bangladesh University of Business and Technology (BUBT) | 2024 | 3.56 / 4.00 | 4 Years |
-| **Diploma in Computer Science & Engineering** | AITVET | 2020 | 3.46 / 4.00 | 3 Years |
+| **Diploma in Computer Science & Engineering** | AITVET | 2020 | 3.46 / 4.00 | 4 Years |
 | **HSC in Science**              | Ramgonj Model College                       | 2015 | 3.88 / 5.00 | 2 Years |
 | **SSC in Science**              | Khajuria M.L High School                    | 2013 | 4.31 / 5.00 | 2 Years |
 
